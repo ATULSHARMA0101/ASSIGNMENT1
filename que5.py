@@ -1,0 +1,5 @@
+a=int(25)
+b=float(25.0)
+c=float("25")
+d=str(a+b+c)
+print(d)
